@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartik Gawade
-- 👀 I’m interested in MACHINE LEARNING, DEEP LEARNING, NLP
-- 🌱 I’m currently learning DATA SCIENCE
+- 👀 I’m interested in Data Analytics, MACHINE LEARNING and DEEP LEARNING
+- 🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me kartikgawade17@gmail.com
 
 <!---
