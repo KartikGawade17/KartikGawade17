@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Kartik Gawade
-- 👀 I’m interested in Data Analytics, MACHINE LEARNING and DEEP LEARNING
-- 🌱 I’m currently learning Artificial Intelligence
-- 📫 How to reach me kartikgawade17@gmail.com
+# Hi, I'm Kartik Gawade
 
-<!---
-KartikGawade17/KartikGawade17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about leveraging data to solve real-world problems and build intelligent systems.  
+Currently pursuing my **M.Sc. in Artificial Intelligence**, I am actively developing skills in:
+
+- Data Analytics  
+- Data Engineering  
+- Machine Learning & Deep Learning  
+- Python Development  
+
+I enjoy working on data-driven projects, building end-to-end solutions, and continuously improving my technical expertise.
+
+### Academic & Certification Highlights
+- Pursuing **Master of Science in Artificial Intelligence**  
+- Completed **Microsoft Azure DP-900: Azure Data Fundamentals** with a score of **835/1000**  
+
+### Contact
+If you'd like to collaborate or discuss anything related to data or AI, feel free to reach out:  
+**Email:** kartikgawade17@gmail.com
+
