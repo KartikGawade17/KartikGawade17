@@ -1,4 +1,4 @@
-![Kartik Gawade Banner](Screenshot 2025-11-25 203730.png)
+![Kartik Gawade Banner](banner.png)
 # Hi, I'm Kartik Gawade
 
 I am passionate about leveraging data to solve real-world problems and build intelligent systems.  
