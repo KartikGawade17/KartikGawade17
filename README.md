@@ -1,8 +1,14 @@
 ![Kartik Gawade Banner](banner.png)
 # Hi, I'm Kartik Gawade
 
-# 💫 About Me:
-I am passionate about leveraging data to solve real-world problems and build intelligent systems.<br>Currently pursuing my M.Sc. in Artificial Intelligence, I am actively developing skills in:<br>Data Analytics<br>Data Engineering<br>Machine Learning & Deep Learning<br>Python Development<br>I enjoy working on data-driven projects, building end-to-end solutions, and continuously improving my technical expertise.
+## 💫 About Me:
+I am passionate about leveraging data to solve real-world problems and build intelligent systems.  
+Currently pursuing my **M.Sc. in Artificial Intelligence**, I am actively developing skills in:
+
+- Data Analytics  
+- Data Engineering  
+- Machine Learning & Deep Learning  
+- Python Development 
 
 
 ## 🌐 Socials:
@@ -23,13 +29,7 @@ I am passionate about leveraging data to solve real-world problems and build int
 ![Kartik Gawade Banner](banner.png)
 # Hi, I'm Kartik Gawade
 
-I am passionate about leveraging data to solve real-world problems and build intelligent systems.  
-Currently pursuing my **M.Sc. in Artificial Intelligence**, I am actively developing skills in:
-
-- Data Analytics  
-- Data Engineering  
-- Machine Learning & Deep Learning  
-- Python Development  
+ 
 
 I enjoy working on data-driven projects, building end-to-end solutions, and continuously improving my technical expertise.
 
